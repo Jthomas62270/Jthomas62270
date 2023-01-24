@@ -1,12 +1,13 @@
-Hello, I'm John Garcia a Software Developer Out of Boston, Ma. Looking to create the next big thing, while trying to help postively influence 
+Hello, I'm John Garcia a Software Developer located in the Boston, Massachuesetts area. Looking to create the next big thing, while trying to help postively influence 
 the world around us.
 
 Included Knowledge:
+- C
+- C++
 - React 
 - Angular
 - Python 
 - Java 
-- C++ 
 
 Special Intrests 
 - Software and Web Development
